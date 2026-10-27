@@ -1,0 +1,14 @@
+{
+  "name": "flowagent",
+  "owner": {
+    "name": "FlowAGENT",
+    "email": "master401200@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "flowagent",
+      "source": "./",
+      "description": "Let Claude Code make images and videos in your own Google Flow tab (Veo 3.1, Nano Banana) — batches, reels, talking characters. Not affiliated with Google."
+    }
+  ]
+}

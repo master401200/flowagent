@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "flowagent": {
+      "command": "flowagent",
+      "args": [
+        "mcp"
+      ]
+    }
+  }
+}

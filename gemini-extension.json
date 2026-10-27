@@ -1,0 +1,13 @@
+{
+  "name": "flowagent",
+  "version": "1.4.11",
+  "mcpServers": {
+    "flowagent": {
+      "command": "flowagent",
+      "args": [
+        "mcp"
+      ]
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}

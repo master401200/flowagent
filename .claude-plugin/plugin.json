@@ -1,0 +1,21 @@
+{
+  "name": "flowagent",
+  "version": "1.4.11",
+  "description": "Let Claude Code make images and videos in your own Google Flow tab (Veo 3.1, Nano Banana) — batches, reels, talking characters. Not affiliated with Google.",
+  "author": {
+    "name": "FlowAGENT",
+    "email": "master401200@gmail.com"
+  },
+  "homepage": "https://flowagent.master401200.workers.dev",
+  "repository": "https://github.com/master401200/flowagent",
+  "license": "MIT",
+  "keywords": [
+    "google-flow",
+    "veo",
+    "nano-banana",
+    "video",
+    "image",
+    "mcp",
+    "batch"
+  ]
+}
